@@ -20,7 +20,7 @@ Therefore, a solution that balances accurate measurement and the necessary costs
 ### Solution
 
 
-Multiple models were tested. Among them XGBoost performer best. which is a regularizing gradient boosting framework. Confusion matrix and accuracy of the models are added.
+Multiple models were tested. Among them the best performing model was *XGBoost*, which is a regularizing gradient boosting framework. Confusion matrix and accuracy of the models are added.
 
 | Model            |    Support Vector Machine    |        Logistics Regression        |             XGBoost              |
 | ---------------- | :--------------------------: | :--------------------------------: | :------------------------------: |
