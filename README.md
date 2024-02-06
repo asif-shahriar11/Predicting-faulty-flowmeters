@@ -1,6 +1,4 @@
-## Task 1
-
-## Details
+### This machine-learning task was a part of an internship program at the North-West Power Generation Company Ltd.
 
 Flow meters are devices used to measure the volumetric or mass flow  of a fluid with ultrasound. However, these devices present serious  engineering problems that give rise to a defective meter function and  cause errors in reading the flow velocity.
 
